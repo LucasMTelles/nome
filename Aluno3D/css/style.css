@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    position: relative;
+    padding: 1rem;
+    left: 20rem;
+}
+
+nav{
+    position: relative;
+}
+
+link{
+    color: white;
+}
+
+section{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.borda{
+    background-color: black;
+    opacity: 50%;
+    width: 40rem;
+    height: 4rem;
+    position: absolute;
+    bottom: 1.7rem;
+}
+
+.texto{
+    position: relative;
+    display: flex;
+    left: 20px;
+    bottom: 3rem;
+    color: white;
+    font-size: 20px;
+}
+
+.curtidas{
+    position: absolute;
+    bottom: 4.6rem;
+    left: 46.5rem;
+}
+
+.like{
+    position: absolute;
+}
+
+.deslike{
+    position: absolute;
+    left: 5rem;
+}
+
+.coracao{
+    position: absolute;
+    left: 10rem;
+}
+
+p{
+    position: absolute;
+    bottom: 10px;
+    left: 3rem;
+    color: white;
+}
+
+.img2{
+    position: relative;
+    right: 4px;
+}
+
+.borda2{
+    background-color: black;
+    opacity: 50%;
+    width: 20rem;
+    height: 4rem;
+    position: absolute;
+    top: 33.5rem;
+    left: 19.5rem;
+}
+
+.borda3{
+    background-color: black;
+    opacity: 50%;
+    width: 20rem;
+    height: 4rem;
+    position: absolute;
+    top: 33.5rem;
+    left: 39.5rem;
+}
+
+.borda4{
+    background-color: black;
+    opacity: 50%;
+    width: 20rem;
+    height: 4rem;
+    position: absolute;
+    top: 33.5rem;
+    left: 59.5rem;
+}
+
+.borda5{
+    background-color: black;
+    opacity: 50%;
+    width: 20rem;
+    height: 4rem;
+    position: absolute;
+    top: 33.5rem;
+    left: 79.5rem;
+}
+
+.curtidas2{
+    position: absolute;
+    bottom: 4.6rem;
+    right: 32.5rem;
+}
+
+.img3{
+    position: absolute;
+    top: 50.2rem;
+}
+
+.curtidas3{
+    position: absolute;
+    bottom: 4.6rem;
+    left: 26.5rem;
+}
+
+.curtidas4{
+    position: absolute;
+    bottom: 4.6rem;
+    left: 46.5rem;
+}
+
+.curtidas5{
+    position: absolute;
+    bottom: 4.6rem;
+    left: 66.5rem;
+}
+
+.curtidas6{
+    position: absolute;
+    bottom: 4.6rem;
+    left: 86.5rem;
+}
+
+.imagens2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 27px;
+}
